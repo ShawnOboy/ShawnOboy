@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shawn-roggero-b37374262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawn roggero" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shawnoboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shawnoboy" height="30" width="40" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/shawn-roggero-b37374262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawn roggero" height="30" width="40" /></a>
+<a target="_blank" href="https://www.youtube.com/channel/UC2Z_VKlA475KE9HKUQftTGQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shawnoboy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
